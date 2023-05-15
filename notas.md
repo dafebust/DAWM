@@ -10,3 +10,10 @@ URL: Uniform Resource Locator. Da una experiencia al usuario que podra acceder s
 * Uniforme, lo mismo para todos, es plano, es consistente.
 * Recurso, todo lo que aparece en google son recursos.
 * Localizador, relaciona el enlace con el recurso. 
+
+Repositorio - github pages: crea servidor : para alojar contenido y así mostrarlo a través de un URL.
+
+
+Preguntas: 
+- Como funciona un servidor?
+- 
